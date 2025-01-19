@@ -1,0 +1,14 @@
+p{
+    color: red;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+    transition: 0.5s;
+}
